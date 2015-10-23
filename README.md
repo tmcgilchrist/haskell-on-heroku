@@ -1,3 +1,6 @@
+ - [ ] Change to use either cabal sandboxes or stack
+
+
 [Haskell on Heroku](https://haskellonheroku.com/)
 ==================================================
 
